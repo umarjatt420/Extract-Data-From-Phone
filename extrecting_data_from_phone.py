@@ -12,4 +12,4 @@ def get_phone_data(number):
       "is_possible": phonenumbers.is_possible_number(phoneNumber)
   }
   
-print(get_phone_data("+923032576030"))
+print(get_phone_data("+92******"))
